@@ -66,3 +66,9 @@ button{
 }
 
 /* media queriess */
+@media (max-width: 792px) {
+    #winner{
+        width: 30vmin;
+        margin-left: 35vmin;
+    }
+}
