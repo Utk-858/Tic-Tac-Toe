@@ -72,3 +72,18 @@ button{
         margin-left: 35vmin;
     }
 }
+
+@media (max-width: 555px) {
+    #winner{
+        width: 40vmin;
+        margin-left: 30vmin;
+    }
+}
+
+
+@media (max-width: 410px) {
+    #winner{
+        width: 45vmin;
+        margin-left: 25vmin;
+    }
+}
